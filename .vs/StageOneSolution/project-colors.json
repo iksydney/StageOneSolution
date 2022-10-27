@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d08d1c8e-0e50-4235-9f7e-d35fbcdc9998": {
+      "ProjectGuid": "d08d1c8e-0e50-4235-9f7e-d35fbcdc9998",
+      "DisplayName": "StageOneAPI",
+      "ColorIndex": 0
+    },
+    "35f335e8-d215-4cfa-98f2-4e807bf2b402": {
+      "ProjectGuid": "35f335e8-d215-4cfa-98f2-4e807bf2b402",
+      "DisplayName": "Entities",
+      "ColorIndex": 1
+    },
+    "dd3c0467-f923-4e84-8f15-aecee4f62611": {
+      "ProjectGuid": "dd3c0467-f923-4e84-8f15-aecee4f62611",
+      "DisplayName": "ContractsAndImplementations",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.AssemblyInfo.cs
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\ContractsAndImplementations.deps.json
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\ContractsAndImplementations.dll
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\ref\ContractsAndImplementations.dll
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\ContractsAndImplementations.pdb
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\Entities.dll
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\bin\Debug\net6.0\Entities.pdb
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.csproj.CopyComplete
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.dll
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ref\ContractsAndImplementations.dll
+C:\Users\Admin\Desktop\hng_Internship\stageOne\StageOneSolution\ContractsAndImplementations\obj\Debug\net6.0\ContractsAndImplementations.pdb

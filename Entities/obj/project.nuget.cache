@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SK2ZwnLStAEo+oVcCd7xvrkTXzov6kH4VI/dpKQSVX5fvWYtD8qFUVVuNz44SzboLU+VOn+aurtBCnnJo20vbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\hng_Internship\\stageOne\\StageOneSolution\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

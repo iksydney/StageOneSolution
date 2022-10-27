@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SlaWg3zs8wAwUhl0Jz0sUqh10zg4LhR8wr+7aagf4ECgnVoZgvzqcBDBRvNgfeP2obT1ljQpxVMThfhCYv+dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\hng_Internship\\stageOne\\StageOneSolution\\StageOne\\StageOneAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

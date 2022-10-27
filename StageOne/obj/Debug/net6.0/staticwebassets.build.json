@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "59MooBgkHVO3WPbrndYwSomiYVrRqjbjgmQYRdDYbmg=",
+  "Source": "StageOneAPI",
+  "BasePath": "_content/StageOneAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
